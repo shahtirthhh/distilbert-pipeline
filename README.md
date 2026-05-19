@@ -29,9 +29,9 @@ Final evaluation metrics on the unseen test dataset:
 
 | Metric    | Score |
 | --------- | ----- |
-| Accuracy  | 0.XX  |
-| F1 Score  | 0.XX  |
-| Eval Loss | 0.XX  |
+| Accuracy  | 0.5275  |
+| F1 Score  | 0.5303  |
+| Eval Loss | 2.63639 |
 
 ## Project Links
 
